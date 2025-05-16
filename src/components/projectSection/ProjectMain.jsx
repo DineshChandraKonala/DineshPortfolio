@@ -1,4 +1,4 @@
-import ProjectText from "./projectText";
+import ProjectText from "./ProjectText";
 import SingleProject from "./SingleProject";
 import {motion} from "framer-motion";
 import {fadeIn} from "../../framerMotion/variant"
