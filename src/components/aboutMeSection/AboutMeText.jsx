@@ -8,7 +8,7 @@ export default function AboutMeText(){
                 database optimization, and problem-solving (DSA). 
                 Passionate about performance optimization and scalable web
                 applications.</p>
-               <a href="https://drive.google.com/file/d/16AszkJTejkLYhtfixQc8SC_byCHOChhA/view?usp=drive_link">
+               <a href="https://drive.google.com/file/d/1DVDGPsllOZfktbodDgH83bGScpMZBBhY/view?usp=drive_link">
                     <button className="border border-orange rounded-full py-2 px-4 text-lg flex items-center mt-10
                      hover:bg-orange transition-all duration-500 cursor-pointer md:self-start sm:self-center
                       text-white hover:text-cyan">MyResume</button></a>
