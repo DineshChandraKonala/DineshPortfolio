@@ -5,21 +5,21 @@ import {fadeIn} from "../../framerMotion/variant"
 const project = [
     {
         name : "ChatApplication Using socket.io",
-        year : "Mar2025",
+        year : "May2025",
         align : "right",
         image : "/images/chatApp.png",
         link : "https://github.com/DineshChandraKonala/Chat-app"
     },
     {
-        name : "Airnbn",
-        year : "Mar2025",
+        name : "TeamTasker",
+        year : "March2025",
         align : "left",
-        image : "/images/website-img-1.jpg",
-        link : "https://github.com/DineshChandraKonala/AirbnbProject"
+        image : "/images/Teamtasker.png",
+        link : "https://github.com/DineshChandraKonala/TeamTasker"
     },
     {
         name : "Airnbn",
-        year : "Mar2025",
+        year : "Feb2025",
         align : "right",
         image : "/images/website-img-1.jpg",
         link : "https://github.com/DineshChandraKonala/AirbnbProject"
