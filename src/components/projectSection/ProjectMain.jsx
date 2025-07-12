@@ -4,6 +4,20 @@ import {motion} from "framer-motion";
 import {fadeIn} from "../../framerMotion/variant"
 const project = [
     {
+        name : "ChatApplication Using socket.io",
+        year : "Mar2025",
+        align : "right",
+        image : "/images/website-img-1.jpg",
+        link : "https://github.com/DineshChandraKonala/Chat-app"
+    },
+    {
+        name : "Airnbn",
+        year : "Mar2025",
+        align : "right",
+        image : "/images/website-img-1.jpg",
+        link : "https://github.com/DineshChandraKonala/AirbnbProject"
+    },
+    {
         name : "Airnbn",
         year : "Mar2025",
         align : "right",
