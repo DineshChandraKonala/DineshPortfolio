@@ -7,7 +7,7 @@ const project = [
         name : "ChatApplication Using socket.io",
         year : "Mar2025",
         align : "right",
-        image : "/images/website-img-1.jpg",
+        image : "/images/chatApp.png",
         link : "https://github.com/DineshChandraKonala/Chat-app"
     },
     {
