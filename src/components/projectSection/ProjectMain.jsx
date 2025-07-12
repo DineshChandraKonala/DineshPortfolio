@@ -13,7 +13,7 @@ const project = [
     {
         name : "Airnbn",
         year : "Mar2025",
-        align : "right",
+        align : "left",
         image : "/images/website-img-1.jpg",
         link : "https://github.com/DineshChandraKonala/AirbnbProject"
     },
